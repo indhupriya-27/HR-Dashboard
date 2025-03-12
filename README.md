@@ -1,4 +1,5 @@
 HR Dashboard - Tableau Visualization
+
 This repository contains an interactive HR Dashboard created using Tableau. The dashboard provides key insights into various HR metrics, including employee distribution, salary analysis, gender distribution, age spread, job roles, and leave balances.
 
 📊 Dashboard Features:
